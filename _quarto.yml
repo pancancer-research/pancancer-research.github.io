@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  description: "Cancer research project dedicated to the bright memory of my Dad"
+  site-url: https://pancancer-research.github.io/ # you must change this appropriately for RSS feeds to work properly
+  title: "pancancer-research"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Главная
+      - href: manifest.qmd
+        text: "Манифест"
+      - href: posts.qmd
+        text: "Разборы"
+      - href: ai_q_list.qmd
+      - text: 1000 вопросов к ИИ
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
