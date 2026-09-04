@@ -29,3 +29,6 @@ jobs:
           publish_dir: ./_site
           publish_branch: gh-pages
           force_orphan: true
+          
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v3
