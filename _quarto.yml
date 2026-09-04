@@ -21,6 +21,9 @@ format:
       - cosmo
       - brand
     css: styles.css
+    include-after-body:
+      - text: |
+          <script data-goatcounter="https://ndanilov2015.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
-
-
+execute:
+  freeze: auto
