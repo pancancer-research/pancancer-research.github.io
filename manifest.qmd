@@ -1,8 +1,18 @@
 ---
-title: "Манифест"
-format: html
+title: "PanCancer Research - Цифровая лаборатория биоинформатики"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
 
+# Манифест
 ```         
 Не уходи смиренно, в сумрак вечной тьмы,
 Пусть тлеет бесконечность в яростном закате.

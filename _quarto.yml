@@ -14,7 +14,11 @@ website:
       - href: posts.qmd
         text: "Разборы"
       - href: ai_q_list.qmd
-      - text: 1000 вопросов к ИИ
+        text: 1000 вопросов к ИИ
+      - href: history.qmd
+        text: История проекта
+      - href: publications.qmd
+        text: Мои публикации
 format:
   html:
     theme:

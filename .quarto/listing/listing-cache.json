@@ -2,6 +2,15 @@
   "listingMap": {
     "index.qmd": [
       "posts"
+    ],
+    "history.qmd": [
+      "posts"
+    ],
+    "publications.qmd": [
+      "posts"
+    ],
+    "manifest.qmd": [
+      "posts"
     ]
   }
 }

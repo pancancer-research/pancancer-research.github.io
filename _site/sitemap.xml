@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pancancer-research.github.io/index.html</loc>
-    <lastmod>2026-09-04T11:16:55.344Z</lastmod>
+    <lastmod>2026-09-06T07:57:14.607Z</lastmod>
   </url>
   <url>
     <loc>https://pancancer-research.github.io/posts/welcome/index.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://pancancer-research.github.io/manifest.html</loc>
-    <lastmod>2026-09-03T21:49:28.197Z</lastmod>
+    <lastmod>2026-09-06T07:49:48.205Z</lastmod>
   </url>
   <url>
     <loc>https://pancancer-research.github.io/ai_q_list.html</loc>
@@ -23,5 +23,13 @@
   <url>
     <loc>https://pancancer-research.github.io/posts.html</loc>
     <lastmod>2026-09-03T21:49:28.198Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pancancer-research.github.io/history.html</loc>
+    <lastmod>2026-09-06T07:50:17.649Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pancancer-research.github.io/publications.html</loc>
+    <lastmod>2026-09-06T07:48:28.403Z</lastmod>
   </url>
 </urlset>
