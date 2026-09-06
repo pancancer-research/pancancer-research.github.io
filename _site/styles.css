@@ -2,3 +2,7 @@
 p {
   text-align: justify;
 }
+
+.quarto-title-banner .title {
+  white-space: nowrap;
+}

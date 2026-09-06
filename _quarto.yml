@@ -28,6 +28,7 @@ format:
     include-after-body:
       - text: |
           <script data-goatcounter="https://ndanilov2015.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-
+    link-external-newwindow: true
+    
 execute:
   freeze: auto
