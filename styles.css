@@ -1,0 +1,10 @@
+/* css styles */
+p {
+  text-align: justify;
+}
+
+@media (min-width: 768px) {
+  .quarto-title-banner .title {
+    white-space: nowrap;
+  }
+}
