@@ -11,3 +11,20 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+## Мои публикации до 2011 года
+
+[Диссертация 2011 года по физической химии и биомеханике](https://www.dissercat.com/content/sostoyanie-kollagena-v-tkanyakh-glaza-i-ego-tselenapravlennaya-modifikatsiya)
+
+### Статьи в рецензируемых журналах
+[Determination of hydroxyproline in tissues and the evaluation of the collagen content of the tissues](https://www.researchgate.net/publication/225497108_Determination_of_hydroxyproline_in_tissues_and_the_evaluation_of_the_collagen_content_of_the_tissues)
+
+[Alteration of the thermodynamic characteristics of corneal collagen denaturation as a result of nonenzymatic glycation](https://www.researchgate.net/publication/227137751_Alteration_of_the_thermodynamic_characteristics_of_corneal_collagen_denaturation_as_a_result_of_nonenzymatic_glycation)
+
+[Stabilization of scleral collagen by glycerol aldehyde cross-linking](https://www.researchgate.net/publication/5523083_Stabilization_of_scleral_collagen_by_glycerol_aldehyde_cross-linking)
+
+[Increase in Scleral Collagen Stability during Glycosylation with Threose In Vitro](https://www.researchgate.net/publication/225722144_Increase_in_Scleral_Collagen_Stability_during_Glycosylation_with_Threose_In_Vitro)
+
+[Sclera of the glaucomatous eye: Physicochemical analysis](https://www.researchgate.net/publication/225667335_Sclera_of_the_glaucomatous_eye_Physicochemical_analysis)
+
+[Biochemical, structural and biomechanical features of human scleral matrix in primary open-angle glaucoma](https://www.researchgate.net/publication/230625324_Biochemical_structural_and_biomechanical_features_of_human_scleral_matrix_in_primary_open-angle_glaucoma)
