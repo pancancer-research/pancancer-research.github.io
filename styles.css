@@ -3,6 +3,8 @@ p {
   text-align: justify;
 }
 
-.quarto-title-banner .title {
-  white-space: nowrap;
+@media (min-width: 768px) {
+  .quarto-title-banner .title {
+    white-space: nowrap;
+  }
 }
